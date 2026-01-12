@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "HEY!×3",
+  "base_artist": "浪漫革命",
+  "createdAt": "2026-01-12T14:09:14.088060Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey^3",
+      "artist": "Sam Ragga Band",
+      "has_synced": true,
+      "path": "select/01_Hey^3_Sam_Ragga_Band.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey 3",
+      "artist": "Sam Ragga Band",
+      "has_synced": true,
+      "path": "select/02_Hey_3_Sam_Ragga_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey #3 / Perfect for You (reprise)",
+      "artist": "Tom Kitt",
+      "has_synced": false,
+      "path": "select/03_Hey__3___Perfect_for_You_(reprise)_Tom_Kitt.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey #3/Perfect for You (Reprise)",
+      "artist": "Jennifer Damiano",
+      "has_synced": true,
+      "path": "select/04_Hey__3_Perfect_for_You_(Reprise)_Jennifer_Damiano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey #3 / Perfect for You (reprise)",
+      "artist": "Tom Kitt",
+      "has_synced": false,
+      "path": "select/05_Hey__3___Perfect_for_You_(reprise)_Tom_Kitt.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey #3/Perfect for You (Reprise)",
+      "artist": "Tom Kitt",
+      "has_synced": false,
+      "path": "select/06_Hey__3_Perfect_for_You_(Reprise)_Tom_Kitt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey #3 / Perfect for You (reprise)",
+      "artist": "Cole Sprouse & Erinn Westbrook",
+      "has_synced": true,
+      "path": "select/07_Hey__3___Perfect_for_You_(reprise)_Cole_Sprouse_&_Erinn_Westbrook.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey #3 / Perfect for You (reprise)",
+      "artist": "Eleanor Worthington-Cox",
+      "has_synced": false,
+      "path": "select/08_Hey__3___Perfect_for_You_(reprise)_Eleanor_Worthington-Cox.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEY!×3",
+      "artist": "浪漫革命",
+      "has_synced": false,
+      "path": "select/pl_01_HEY!×3_浪漫革命.txt"
+    }
+  ]
+}
